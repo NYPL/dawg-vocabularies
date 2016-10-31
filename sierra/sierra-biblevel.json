@@ -1,0 +1,50 @@
+{
+    "date": "2016-10-01",
+    "description": "The lookup values for the sierra Bib level codes",
+    "system": "sierra",
+    "values": [
+        {
+            "notation": "-",
+            "prefLabel": "---"
+        },
+        {
+            "notation": "7",
+            "prefLabel": "ARCHIVES & MSS"
+        },
+        {
+            "altLabel": "MONO COMP PT",
+            "notation": "a",
+            "prefLabel": "Monographic component part"
+        },
+        {
+            "altLabel": "SER COMP PT",
+            "notation": "b",
+            "prefLabel": "Serial component part"
+        },
+        {
+            "altLabel": "COLLECTION",
+            "notation": "c",
+            "prefLabel": "Collection"
+        },
+        {
+            "altLabel": "SUBUNIT",
+            "notation": "d",
+            "prefLabel": "Subunit"
+        },
+        {
+            "altLabel": "INTGRTNG RES",
+            "notation": "i",
+            "prefLabel": "Integrating resource"
+        },
+        {
+            "altLabel": "MONOGRAPH",
+            "notation": "m",
+            "prefLabel": "Monograph/Item"
+        },
+        {
+            "altLabel": "SERIAL",
+            "notation": "s",
+            "prefLabel": "Serial"
+        }
+    ]
+}
