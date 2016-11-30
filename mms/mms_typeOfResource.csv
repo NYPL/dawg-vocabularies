@@ -1,0 +1,12 @@
+value,notes
+text,
+cartographic,
+notated music,
+sound recording,
+sound recording-musical,supported but not preferred; USE: sound recording
+sound recording-nonmusical,supported but not preferred; USE: sound recording
+still image,
+moving image,
+three dimensional object,
+"software, multimedia",
+mixed material,not locally supported; USE: multiple typeOfResource elements

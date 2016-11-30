@@ -1,0 +1,37 @@
+id,name,code,name_short,center,marc_org_code
+10004,Art and Picture Collection,MMPC,Art and Picture Collection,MML,
+10005,Billy Rose Theatre Division,THE,Billy Rose Theatre Division,LPA,
+10022,Carl H. Pforzheimer Collection of Shelley and His Circle,CPS,Pforzheimer Collection,SASB,
+10026,Children's Center at 42nd St,CHILDCTR,Children's Center at 42nd St,SASB,
+10027,"Comm, Marketing, and Business Dev",PBL,"Comm, Marketing, and Business Dev",,
+10023,Dorot Jewish Division,JWS,Dorot Jewish Division,SASB,nnjd
+10028,Dorothy and Lewis B. Cullman Center for Scholars & Writers,EPE/CSW,Dorothy and Lewis B. Cullman Center for Scholars & Writers,SASB,
+10043,"External, not an NYPL item, it comes from some other institution. (LEGACY; Please do not use) ",EXTERNAL,"External, not NYPL",,
+10021,General Research Division,GRD,General Research Division,SASB,
+10020,George Arents Collection,ARN,George Arents Collection,SASB,
+10002,Henry W. and Albert A. Berg Collection of English and American Literature,BRG,Berg Collection,SASB,nnbgc
+10016,"Irma and Paul Milstein Division of United States History, Local History and Genealogy",LHG,Milstein Division,SASB,
+10006,Jerome Robbins Dance Division,DAN,Jerome Robbins Dance Division,LPA,nn-pd
+10080,Jerome Robbins Dance Division - Audio and Moving Image,DAN_MIA,Jerome Robbins Dance Division - Audio and Moving Image,LPA,nn-pd
+10015,Lionel Pincus and Princess Firyal Map Division,MAP,Map Division,SASB,
+10017,Manuscripts and Archives Division,MSS,Manuscripts and Archives Division,SASB,
+10007,Music Division,MUS,Music Division,LPA,
+10100,New York Public Library Archives,NYPLA,NYPL Archives,SASB,nn
+10044,"No Division, NYPL item, but not associated with any one Division, e.g. NYPL Art Work",NO_DIV,No Division,,
+10025,Rare Book Division,RBK,Rare Book Division,SASB,
+10040,Reference and Research Services,RRS,Reference and Research Services,SASB,
+10120,Reserve Film and Video Collection,MYA,Reserve Film and Video Collection,LPA,
+10001,Rodgers and Hammerstein Archives of Recorded Sound,RHA,Rodgers and Hammerstein Archives of Recorded Sound,LPA,nnrha
+10011,"Schomburg Center for Research in Black Culture, Art and Artifacts Division",SCF,Schomburg Art and Artifacts Division,SC,
+10010,"Schomburg Center for Research in Black Culture, Jean Blackwell Hutson Research and Reference Division",SCR,Schomburg Jean Blackwell Hutson Research and Reference Division,SC,
+10009,"Schomburg Center for Research in Black Culture, Manuscripts, Archives and Rare Books Division",SCM,"Schomburg Manuscripts, Archives and Rare Books Division",SC,
+10013,"Schomburg Center for Research in Black Culture, Moving Image and Recorded Sound Division",SCL,Schomburg Moving Image and Recorded Sound Division,SC,
+10012,"Schomburg Center for Research in Black Culture, Photographs and Prints Division",SCG,Schomburg Photographs and Prints Division,SC,
+10042,"Science, Industry and Business Library: General Collection ",BG,SIBL: General collection,SIBL,
+10003,Slavic and East European Collections,[HV],Slavic and East European Collections,,
+10019,Spencer Collection,SPN,Spencer Collection,SASB,
+10024,"The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Art & Architecture Collection",ART,Wallach Division: Art & Architecture Collection,SASB,
+10014,"The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection",PHG,Wallach Division: Photography Collection,SASB,
+10018,"The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection",PRN,Wallach Division: Print Collection,SASB,
+10008,Theatre on Film and Tape Archive,TOFT,Theatre on Film and Tape Archive,LPA,
+10000,Unknown,unk,Unknown,,

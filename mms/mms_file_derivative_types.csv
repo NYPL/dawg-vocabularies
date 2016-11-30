@@ -1,0 +1,15 @@
+From https://nypltech.atlassian.net/wiki/display/DIG/Derivatives+for+Reflective+and+Transmissive+Media+Digitization,
+Type,definition
+U,"uncropped, uncompressed .tif file (maximum number of pixels from original capture)"
+J,Cropped version of the U file in jpeg2000 (original cropped dimensions)
+S,"Cropped version of the U file, as a .tif file (original cropped dimensions)"
+G,"a ""full-size"" .jpeg which has the same dimensions as the jpeg2000 (""J"") derivative"
+V,Cropped .jpeg (2560 pixels on the long side)
+Q,Cropped .jpeg (1600 pixels on the long side)
+W,Cropped .jpeg (760 pixels on the long side)
+R,Cropped .jpeg (300 pixels on the long side)
+T,Cropped .gif (150 pixels on the long side)
+F,Cropped .jpeg (140 pixels tall with variable width)
+B,Center cropped thumbnail .jpeg (100x100 pixels)
+D,MrSID files
+X,16-bit .tif file

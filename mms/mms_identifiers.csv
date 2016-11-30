@@ -1,0 +1,21 @@
+type,displayLabel
+local_bnumber,NYPL catalog ID (B-number)
+local_barcode,Barcode
+local_photo_order,Photo Order
+local_mss,MSS Unit ID
+local_mss_av,AMI Identifier
+local_tms_id,TMS ID
+local_tms_object_number,TMS Object Number
+local_hades,Hades struc ID (legacy)
+local_hades_collection,Hades Collection Guide ID (legacy)
+local_imageid,Digital Gallery Image ID
+local_exhibition,NYPL Exhibition ID
+local_catnyp,CATNYP ID (legacy)
+local_archives_ead,Archives EAD ID
+local_mss_er,Electronic Record Package
+local_other,Other local Identifier
+local_filename,Capture Original Filename
+oclc,RLIN/OCLC
+lccn,Library of Congress Control Number
+isbn,International Standard Book Number
+isrc,International Standard Recording Code
