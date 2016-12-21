@@ -1,0 +1,7 @@
+Property label,RDF property,JSON-LD context,Definition,Range,Controlled vocabularies,Obligation/Expectations,Notes,,
+Actual location,nypl:actualLocation,actualLocation,"The actual physical location of the resource, relative to the branch or collection (?)",xsd:literal,,0-1,,,Should this value always be present? Should this be a concatenation of prefLabel and actual location?
+Code,skos:notation,code,The short code of the branch or collection label.,xsd:literal,,1,,,
+Location type,nypl:locationType,locationType,The location type of a branch or collection,array of xsd:literals,"[Research, Branch]",1-2,,,"A location can be more than one type. Should the value be a list of applicable types or should we use the value ""both"" when both types apply?"
+Preferred label,skos:prefLabel,prefLabel,The full name of the branch or collection label,xsd:literal,,1,,,
+Owner,nypl:owner,owner,"The NYPL center, division, branch, or unit responsible for the location.",org:Organization,,0-n,,,
+Sublocation of,dcterms:isPartOf,isPartOf,The building where the location is found.,nypl:Location,,0-1,,,
