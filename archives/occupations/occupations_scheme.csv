@@ -1,0 +1,2 @@
+Property Label,RDF Property,JSON-LD Context,Definition,Range,Obligation/Expectation
+Label,skos:prefLabel,prefLabel,The occupation term's string representation,xsd:literal,1
