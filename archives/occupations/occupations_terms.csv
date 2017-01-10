@@ -1,0 +1,438 @@
+id,skos:prefLabel
+itoamc1,Abolitionists.
+itoamc2,Accountants.
+itoamc3,Actors.
+itoamc4,Actresses.
+itoamc5,Actuaries.
+itoamc6,Administrators.
+itoamc7,Adventurers.
+itoamc8,Advertisers.
+itoamc9,Advertising executives.
+itoamc10,Aeronauts.
+itoamc11,Aerospace engineers.
+itoamc12,Agents.
+itoamc13,Agriculturists.
+itoamc14,Air Force officers.
+itoamc15,Aircraft designers.
+itoamc16,Aircraft manufacturers.
+itoamc17,Airline executives.
+itoamc18,Airplane manufacturers.
+itoamc19,Alchemists.
+itoamc20,Ambassadors.
+itoamc21,American loyalists.
+itoamc22,Analysands.
+itoamc23,Anatomists.
+itoamc24,Anesthesiologists.
+itoamc25,Animal rights activists.
+itoamc26,Anthologists.
+itoamc27,Anthropologists.
+itoamc28,Antiquarians.
+itoamc29,Archaeologists.
+itoamc30,Architects.
+itoamc31,Architectural historians.
+itoamc32,Archivists.
+itoamc33,Armaments experts.
+itoamc34,Armorers.
+itoamc35,Army Air Corps officers.
+itoamc36,Army clerks.
+itoamc37,Army officers.
+itoamc38,Army paymasters.
+itoamc39,Army prosecutors.
+itoamc40,Army surgeons.
+itoamc41,Art collectors.
+itoamc42,Art connoisseurs.
+itoamc43,Art consultants.
+itoamc44,Art critics.
+itoamc45,Art dealers.
+itoamc46,Art directors.
+itoamc47,Art historians.
+itoamc48,Artists.
+itoamc49,Assassins.
+itoamc50,Astronomers.
+itoamc51,Astrophysicists.
+itoamc52,Atomic energy commissioners.
+itoamc53,Attorneys general.
+itoamc54,Authors.
+itoamc55,Aviators.
+itoamc56,Balloonists.
+itoamc57,Bankers.
+itoamc58,Baseball executives.
+itoamc59,Baseball managers.
+itoamc60,Baseball players.
+itoamc61,Bibliographers.
+itoamc62,Bibliophiles.
+itoamc63,Biochemists.
+itoamc64,Biographers.
+itoamc65,Biologists.
+itoamc66,Biophysicists.
+itoamc67,Biotechnologists.
+itoamc68,Blacksmiths.
+itoamc69,Boatswains.
+itoamc70,Book designers.
+itoamc71,Bookbinders.
+itoamc72,Booksellers.
+itoamc73,Botanists
+itoamc74,Brickmakers.
+itoamc75,Broadcast executives.
+itoamc76,Brokers.
+itoamc77,Builders.
+itoamc78,Businessmen.
+itoamc79,Businesswomen.
+itoamc80,Cabinet officers (State government).
+itoamc81,Cabinet officers.
+itoamc82,Cameramen.
+itoamc83,Campaign workers.
+itoamc84,Canal officials.
+itoamc85,Cannon makers.
+itoamc86,Capitalists.
+itoamc87,Capitol pages.
+itoamc88,Carpenters.
+itoamc89,Cartographers.
+itoamc90,Cartoonists.
+itoamc91,Chancellors.
+itoamc92,"Chaplains, Military."
+itoamc93,"Chaplains, U.S. Senate."
+itoamc94,Chaplains.
+itoamc95,Chauffeurs.
+itoamc96,Chemical engineers.
+itoamc97,Chemists.
+itoamc98,Chess players.
+itoamc99,Child psychologists.
+itoamc100,Cinematographers.
+itoamc101,Circus owners.
+itoamc102,Civic leaders.
+itoamc103,Civil engineers.
+itoamc104,Civil libertarians.
+itoamc105,Civil rights activists.
+itoamc106,Civil rights leaders.
+itoamc107,Civil servants.
+itoamc108,Classicists.
+itoamc109,Clergy.
+itoamc110,Clerks.
+itoamc111,Clerks of court.
+itoamc112,"Clerks, U.S. Army."
+itoamc113,"Clerks, U.S. House of Representatives."
+itoamc114,"Clerks, U.S. Supreme Court."
+itoamc115,Clubwomen.
+itoamc116,"Collectors, Autograph."
+itoamc117,Collectors.
+itoamc118,College administrators.
+itoamc119,College presidents.
+itoamc120,Colonial administrators.
+itoamc121,Colonial agents.
+itoamc122,Colonial officials.
+itoamc123,Colonists.
+itoamc124,Colonizers.
+itoamc125,Comedians.
+itoamc126,Commentators.
+itoamc127,Commercial agents.
+itoamc128,Communists.
+itoamc129,Compilers.
+itoamc130,Composers.
+itoamc131,Computer scientists.
+itoamc132,Conquerors.
+itoamc133,Conservationists.
+itoamc134,Conspirators.
+itoamc135,Consuls.
+itoamc136,Consultants.
+itoamc137,Consulting engineers.
+itoamc138,Contractors.
+itoamc139,Cooks.
+itoamc140,Coopers.
+itoamc141,Coppersmiths.
+itoamc142,County clerks.
+itoamc143,Critics.
+itoamc144,Curators.
+itoamc145,Customs agents.
+itoamc146,Customs inspectors.
+itoamc147,Dancers.
+itoamc148,Deacons.
+itoamc149,"Delegates, U.S. Continental Congress."
+itoamc150,Demographers.
+itoamc151,Dental surgeons.
+itoamc152,Dentists.
+itoamc153,Designers.
+itoamc154,Desperadoes.
+itoamc155,Dictators.
+itoamc156,Diplomats.
+itoamc157,Drafters.
+itoamc158,Dramatists.
+itoamc159,Economists.
+itoamc160,Editors.
+itoamc161,Educators.
+itoamc162,Electrical engineers.
+itoamc163,Electricians.
+itoamc164,Electrochemists.
+itoamc165,Emperors.
+itoamc166,Empresses.
+itoamc167,Engineers.
+itoamc168,Engravers.
+itoamc169,Entertainers.
+itoamc170,Entomologists.
+itoamc171,Entrepreneurs.
+itoamc172,Epidemiologists.
+itoamc173,Essayists.
+itoamc174,Ethnologists.
+itoamc175,Evangelists.
+itoamc176,Examiners.
+itoamc177,"Examiners, U.S. Patent Office."
+itoamc178,Executives.
+itoamc179,Executors.
+itoamc180,Expatriates.
+itoamc181,Explorers.
+itoamc182,Expressmen.
+itoamc183,Farmers.
+itoamc184,FBI agents.
+itoamc185,Federalists.
+itoamc186,Financiers.
+itoamc187,Football coaches.
+itoamc188,Foreign correspondents.
+itoamc189,Foreign service officers.
+itoamc190,Forest rangers.
+itoamc191,Foresters.
+itoamc192,Freight rate specialists.
+itoamc193,Frontiersmen.
+itoamc194,Gay rights activists.
+itoamc195,Gemologists.
+itoamc196,Geographers.
+itoamc197,Geologists.
+itoamc198,Geophysicists.
+itoamc199,Government employees.
+itoamc200,Governors.
+itoamc201,Governors general.
+itoamc202,Governors' spouses.
+itoamc203,Grammarians.
+itoamc204,Heads of state.
+itoamc205,Healers.
+itoamc206,Mercenaries.
+itoamc207,Historians.
+itoamc208,Horticulturists.
+itoamc209,Hospital directors.
+itoamc210,Housekeepers.
+itoamc211,"Housekeepers, White House."
+itoamc212,Humorists.
+itoamc213,Hymnologists.
+itoamc214,Illustrators.
+itoamc215,Immigration inspectors.
+itoamc216,Importers.
+itoamc217,Indian agents.
+itoamc218,Indian chiefs.
+itoamc219,Indian commissioners.
+itoamc220,Indian fighters.
+itoamc221,Industrial designers.
+itoamc222,Industrial physicists.
+itoamc223,Industrialists.
+itoamc224,Insurance brokers.
+itoamc225,Insurance executives.
+itoamc226,Intelligence officers.
+itoamc227,Internationalists.
+itoamc228,Inventors.
+itoamc229,Iron manufacturers.
+itoamc230,Journalists.
+itoamc231,Jurists.
+itoamc232,Justices of the peace.
+itoamc233,Kings.
+itoamc234,Labor leaders.
+itoamc235,Laborers.
+itoamc236,Land agents.
+itoamc237,Land speculators.
+itoamc238,Landowners.
+itoamc239,Landscape architects.
+itoamc240,Lawyers.
+itoamc241,Lecturers.
+itoamc242,Legislative reporters.
+itoamc243,Legislators (State government).
+itoamc244,Lexicographers.
+itoamc245,Librarians.
+itoamc246,Librarians of Congress.
+itoamc247,Linguists.
+itoamc248,Literary agents.
+itoamc249,Loan officers.
+itoamc250,Lobbyists.
+itoamc251,Lumbermen.
+itoamc252,Lyricists.
+itoamc253,Marine biologists.
+itoamc254,Marine Corps officers.
+itoamc255,Marine engineers.
+itoamc256,Mariners.
+itoamc257,Marines.
+itoamc258,Marshals.
+itoamc259,Mathematicians.
+itoamc260,Mayors.
+itoamc261,Merchants.
+itoamc262,Metaphysicians.
+itoamc263,Meteorologists.
+itoamc264,Microbiologists.
+itoamc265,Midshipmen.
+itoamc266,Military historians.
+itoamc267,Military scouts.
+itoamc268,Militia officers.
+itoamc269,Mill owners.
+itoamc270,Missionaries.
+itoamc271,Mistresses.
+itoamc272,Monks.
+itoamc273,Motion picture directors.
+itoamc274,Motion picture producers.
+itoamc275,Musicians.
+itoamc276,Musicologists.
+itoamc277,Nationalists.
+itoamc278,Naturalists.
+itoamc279,Naval architects.
+itoamc280,Naval constructors.
+itoamc281,Naval historians.
+itoamc282,Naval officers.
+itoamc283,Neurologists.
+itoamc284,Neuropsychiatrists.
+itoamc285,Newspaper editors.
+itoamc286,Newspapermen.
+itoamc287,Notaries.
+itoamc288,Novelists.
+itoamc289,Nuclear chemists.
+itoamc290,Nuclear physicists.
+itoamc291,Nurses.
+itoamc292,Oceanographers.
+itoamc293,Ophthalmologists.
+itoamc294,Orators.
+itoamc295,Ornithologists.
+itoamc296,Painters.
+itoamc297,Paleographers.
+itoamc298,Palmists.
+itoamc299,Pathologists.
+itoamc300,Patriots.
+itoamc301,Pharmacologists.
+itoamc302,Philanthropists.
+itoamc303,Philologists.
+itoamc304,Philosophers.
+itoamc305,Photographers.
+itoamc306,Photographic assistants.
+itoamc307,Physicians.
+itoamc308,Physicists.
+itoamc309,Physiologists.
+itoamc310,Pianists.
+itoamc311,Pilgrims.
+itoamc312,Pioneers.
+itoamc313,Plant pathologists.
+itoamc314,Plantation owners
+itoamc315,Poets.
+itoamc316,Police chiefs.
+itoamc317,Political activists.
+itoamc318,Political commentators.
+itoamc319,Political consultants.
+itoamc320,Political scientists.
+itoamc321,Politicians.
+itoamc322,Postal clerks.
+itoamc323,Postmasters.
+itoamc324,Presidential advisors.
+itoamc325,Presidents.
+itoamc326,Prime ministers.
+itoamc327,Princes.
+itoamc328,Printers.
+itoamc329,Prison wardens.
+itoamc330,Privateers.
+itoamc331,Promoters.
+itoamc332,Prospectors.
+itoamc333,Prothonotaries.
+itoamc334,Psychiatrists.
+itoamc335,Psychoanalysts.
+itoamc336,Psychologists.
+itoamc337,Psychotherapists.
+itoamc338,Public officials.
+itoamc339,Public relations consultants.
+itoamc340,Publicists.
+itoamc341,Publishers.
+itoamc342,Purser's clerks.
+itoamc343,Quakers.
+itoamc344,Queens.
+itoamc345,Radio directors.
+itoamc346,Radio journalists.
+itoamc347,Radio producers.
+itoamc348,Railroad executives.
+itoamc349,Railroad officials.
+itoamc350,Ranchers.
+itoamc351,Reformers.
+itoamc352,Religious leaders.
+itoamc353,Religious workers.
+itoamc354,"Representatives, U.S. Congress."
+itoamc355,Research analysts.
+itoamc356,Research superintendents.
+itoamc357,Revenue-cutter service officers.
+itoamc358,Revolutionaries.
+itoamc359,River pilots.
+itoamc360,Royal consorts.
+itoamc361,Sailors.
+itoamc362,Salesmen.
+itoamc363,Scholars.
+itoamc364,Scientists.
+itoamc365,Scouts.
+itoamc366,Sculptors.
+itoamc367,Sea captains.
+itoamc368,Seamen.
+itoamc369,Secret service agents.
+itoamc370,"Secretaries, Presidential."
+itoamc371,"Secretaries, U.S. Senate."
+itoamc372,Secretaries.
+itoamc373,"Senators, U.S. Congress."
+itoamc374,Servants.
+itoamc375,Set designers.
+itoamc376,Ship captains.
+itoamc377,Shipbuilders.
+itoamc378,Shipowners.
+itoamc379,Shipwrights.
+itoamc380,Shoemakers.
+itoamc381,Silversmiths.
+itoamc382,Singers.
+itoamc383,Slaveholders.
+itoamc384,Slaves.
+itoamc385,Social activists.
+itoamc386,Social leaders.
+itoamc387,Social secretaries.
+itoamc388,Social workers.
+itoamc389,Socialists.
+itoamc390,Socialites.
+itoamc391,Sociologists.
+itoamc392,Soldiers.
+itoamc393,Songwriters.
+itoamc394,Speculators.
+itoamc395,Spies.
+itoamc396,Spiritualists.
+itoamc397,Statesmen.
+itoamc398,Stenographers.
+itoamc399,Stonemasons.
+itoamc400,Students.
+itoamc401,Suffragists.
+itoamc402,Supercargos.
+itoamc403,Superintendents of schools.
+itoamc404,Superintendents.
+itoamc405,Surgeons.
+itoamc406,Surveyors.
+itoamc407,Swordmakers.
+itoamc408,Tailors.
+itoamc409,Talent agents.
+itoamc410,Tanners.
+itoamc411,Teachers.
+itoamc412,Telegraphers.
+itoamc413,Television directors.
+itoamc414,Television personalities.
+itoamc415,Television producers.
+itoamc416,Theatrical directors.
+itoamc417,Theatrical managers.
+itoamc418,Theatrical producers.
+itoamc419,Theologians.
+itoamc420,Theosophists.
+itoamc421,Topographical engineers.
+itoamc422,Traders.
+itoamc423,Tradesmen.
+itoamc424,Translators.
+itoamc425,Travelers.
+itoamc426,Undertakers.
+itoamc427,Ushers.
+itoamc428,Vice presidents.
+itoamc429,Viceroys.
+itoamc430,Violinists.
+itoamc431,Virologists.
+itoamc432,Visionaries.
+itoamc433,Whalers (Persons)
+itoamc434,Whaling masters.
+itoamc435,Wood-carvers.
+itoamc436,Yeomen.
+itoamc437,Zoologists.

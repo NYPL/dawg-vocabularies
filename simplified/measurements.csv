@@ -1,0 +1,10 @@
+constant, value
+POPULARITY, "http://librarysimplified.org/terms/rel/popularity"
+QUALITY, "http://librarysimplified.org/terms/rel/quality"
+PUBLISHED_EDITIONS, "http://librarysimplified.org/terms/rel/editions"
+HOLDINGS, "http://librarysimplified.org/terms/rel/holdings"
+RATING, "http://schema.org/ratingValue"
+DOWNLOADS, "https://schema.org/UserDownloads"
+PAGE_COUNT, "https://schema.org/numberOfPages"
+AWARDS, "http://librarysimplified.org/terms/rel/awards"
+GUTENBERG_FAVORITE, "http://librarysimplified.org/terms/rel/lists/gutenberg-favorite"

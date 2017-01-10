@@ -1,0 +1,5 @@
+OBJECT TYPE, DEFINITION
+collection, Defined as the top of any given set of hierarchical set; can have one or more containers or one or more items but must not have any parent above itself
+container, Defined as any intermediary level of hiearchical information; can have one or more containers or one or more items but must live beneath a collection either directly or through inheritance
+item, Defined as the lowest level of hierarchy where biliographic information makes sense; can have a parent that is either a collection or a container though it can also be standalone; cannot have any children other than captures
+capture, Defined as the representation of the digitized object and all its associated derivatives (essentially a 'file set'); it must belong to an item
